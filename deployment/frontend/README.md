@@ -1,7 +1,5 @@
 # HeatMetro: Viewer
 
-<a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License MIT"> </a>
-
 > **[Leer en Español](https://www.google.com/search?q=%23heatmetro-viewer-espa%C3%B1ol)**
 
 ![](.docs/logo.png)
@@ -279,7 +277,3 @@ Si deseas contribuir al código:
 ## Author
 
 - **Braulio Nayap Maldonado Casilla** - [GitHub Profile](https://github.com/ShinjiMC)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.

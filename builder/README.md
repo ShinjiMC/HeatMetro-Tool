@@ -1,9 +1,5 @@
 # HeatMetro: Builder
 
-<a href="https://opensource.org/licenses/MIT">
-<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License MIT">
-</a>
-
 > **[Leer en Español](#heatmetro-builder-español)**
 
 ---
@@ -86,7 +82,7 @@ Use the following format as a template for this file:
 sonar.organization=shinji
 sonar.projectKey=shinji_conc-vis
 sonar.projectName=conc_vis
-sonar.host.url=[https://sonarcloud.io](https://sonarcloud.io)
+sonar.host.url=https://sonarcloud.io
 
 # Configuration for Go
 sonar.language=go
@@ -226,7 +222,7 @@ Utilice el siguiente formato como plantilla para este archivo:
 sonar.organization=shinji
 sonar.projectKey=shinji_conc-vis
 sonar.projectName=conc_vis
-sonar.host.url=[https://sonarcloud.io](https://sonarcloud.io)
+sonar.host.url=https://sonarcloud.io
 
 # Configuración para Go
 sonar.language=go
@@ -300,7 +296,3 @@ docker system prune -f
 ## Author
 
 - **Braulio Nayap Maldonado Casilla** - [GitHub Profile](https://github.com/ShinjiMC)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
